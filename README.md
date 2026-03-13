@@ -1,6 +1,10 @@
 # @keyid/agent-kit
 
-MCP (Model Context Protocol) server for [KeyID.ai](https://keyid.ai) — gives AI agents email tools via any MCP-compatible framework.
+**Give Claude, Cursor, or any MCP client a real email address. Free. No signup.**
+
+27 email tools via Model Context Protocol (MCP): send, receive, reply, search inbox, manage contacts, set auto-reply, schedule delivery — everything an AI agent needs to handle email autonomously.
+
+Powered by [KeyID.ai](https://keyid.ai) — free email infrastructure for AI agents. No human registration, no API keys to manage, no cost.
 
 ## Install
 
